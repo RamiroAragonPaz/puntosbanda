@@ -1,0 +1,36 @@
+.navbar {
+    height: 5vh;
+    
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        
+        .brand-container {
+            width: 20%;
+            margin: 0;
+            
+            .brand {
+                font-size: 25px;
+                font-weight: 600; 
+            }            
+        }
+
+        .buttons-container {
+            display: flex;
+
+            a {
+                align-self: center;
+                margin: 0 10px;
+                text-decoration: none;
+                color: black;
+            }
+
+            .button {
+                
+                
+                font-size: 20px;
+            }
+        }   
+    }
+}
