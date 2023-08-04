@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puntosbanda/static/css/main.1e98b6b5.css",
+    "main.js": "/puntosbanda/static/js/main.39a9916f.js",
+    "static/js/787.41fe92fb.chunk.js": "/puntosbanda/static/js/787.41fe92fb.chunk.js",
+    "index.html": "/puntosbanda/index.html",
+    "main.1e98b6b5.css.map": "/puntosbanda/static/css/main.1e98b6b5.css.map",
+    "main.39a9916f.js.map": "/puntosbanda/static/js/main.39a9916f.js.map",
+    "787.41fe92fb.chunk.js.map": "/puntosbanda/static/js/787.41fe92fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e98b6b5.css",
+    "static/js/main.39a9916f.js"
+  ]
+}
